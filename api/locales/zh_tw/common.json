@@ -1,0 +1,18 @@
+{
+	"field": {
+		"BASE_TYPE_REQUIRED": "此為必填欄位",
+		"BASE_TYPE_STRING": "此欄位必須是字串",
+		"BASE_TYPE_NUMBER": "此欄位必須是數字",
+		"BASE_TYPE_BIGINT": "此欄位必須是數字(BigInt)",
+		"BASE_TYPE_BOOLEAN": "此欄位必須是布林值",
+		"BASE_TYPE_CHOICES": "此欄位必須是 {{types}} 的其中一種",
+		"BASE_TYPE_CLASS": "此欄位必須是 {{type}} 的實例",
+		"BASE_TYPE_OBJECT": "此欄位必須是物件",
+		"BASE_TYPE_ARRAY": "此欄位必須是陣列",
+		"UNKOWN_FIELD": "未知的key: {{key}}",
+		"BASE_TYPE_CONSTANT": "此欄位必須是 {{value}}",
+		"EMAIL_TYPE_INVALID_EMAIL": "Email格式不正確",
+		"DATE_TYPE_PARSE": "無法解析 {{date}}, 請參考ISO8601",
+		"BASE_TYPE_BAD_LENGTH": "範圍必須在 {{length}} 之間"
+	}
+}
